@@ -1,17 +1,14 @@
+<div align="left">
+  <img src="assets/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=true&text=Heyy!%20This%20is%20Ankit%20Hazarika&fontSize=54&fontColor=EBEBEB&fontAlign=49&fontAlignY=59&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=26&descAlignY=50&textBg=false&color=5C005C"  />
+</div>
+
 
 
 ###
-
-<br clear="both">
-
-<div align="left">
-  <img height="298" src="assets/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
-</div>
-
-###
-<div align="left">
-  <img height="298" src="assets/name template.png"  />
-</div>
 
 # ⚡ Code. Build. Break. Repeat.
 
