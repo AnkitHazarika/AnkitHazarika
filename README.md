@@ -1,31 +1,56 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Heyy!%20I'm%20Ankit%20Hazarika&fontSize=60&fontColor=EBEBEB&fontAlign=50&fontAlignY=43&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5C005C"  />
+
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="298" src="assets/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
 </div>
 
 ###
-
-<div align="center">
-  <img height="156" src="https://github.com/AnkitHazarika/AnkitHazarika/blob/main/assets/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
+<div align="left">
+  <img height="298" src="assets/name template.png"  />
 </div>
 
-###
+# ⚡ Code. Build. Break. Repeat.
 
-<h1 align="left">Hey 👋 What's up?</h1>
+### 👨‍💻 Ankit Hazarika  
+CS @ VIT Bhopal | AI • Robotics • Cloud • Blockchain  
 
-###
+---
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I build things that go beyond screens —  
+autonomous drones 🌱, detection models 🔥, and systems that **think, move, and optimize**.  
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🚀 Currently Exploring
+- 🧠 AI/ML (YOLO, Computer Vision)  
+- ☁️ AWS & Cloud Architectures  
+- ⛓️ Blockchain  
+- 🎮 Google Arcade  
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+### ⚙️ Tech Stack
+`Python` `C++` `Node.js` `MongoDB` `Docker` `OpenCV` `AWS`
 
-###
+---
 
+### 🛠️ Featured Work
+- 🚁 Autonomous drone for plant analysis & wildfire detection  
+- 🍎 Fruit & vegetable recognition system  
+- 🔗 URL shortener with Docker deployment  
+
+---
+
+### 🎯 Goal
+Work in **Robotics / Motorsport Tech** — building systems that perform in the real world.  
+
+---
+
+> ⚡ *If it doesn’t push limits, it’s not worth building.*
 <h2 align="left">I code with</h2>
 
 ###
