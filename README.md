@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="156" src="https://www.pinterest.com/ideas/computer-pixel-gif/937844167006/"  />
+  <img height="156" src="https://github.com/AnkitHazarika/AnkitHazarika/blob/main/assets/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
 </div>
 
 ###
